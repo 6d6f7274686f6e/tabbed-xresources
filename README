@@ -22,4 +22,4 @@ See the man page for details.
 
 Patch
 -----
-This repo adds a "xresource" patch, imported from the [st patch of the same name](https://github.com/dcat/st-xresources).
+This repo adds a "xresource" patch, imported from the st patch of the same name (https://github.com/dcat/st-xresources).
